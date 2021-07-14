@@ -1,8 +1,8 @@
 # Geo IoT
 
-Geolocation is one of the fastest growing Internetof Things (IoT) applications.
+Geolocation is one of the fastest growing Internet of Things (IoT) applications.
 
-By 2025, the market size for "Geo IoT" will  reach $74 billion.
+By 2025, the market size for "Geo IoT" will reach $74 billion.
 
 
 ## Applications
